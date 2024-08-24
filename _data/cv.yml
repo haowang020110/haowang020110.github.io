@@ -12,10 +12,11 @@
   type: time_table
   contents:
     - title: Bachelor
-      institution: Huazhong University of Science and Technology, Wuhan
+      institution: Huazhong University of Science and Technology, Wuhan, China
       year: 2020-2024
       description:
-        - major in Biomedical Engineering, gpa 3.9/4.0
+        - Majoring in Biomedical Engineering
+        - 'GPA: 3.9/4.0'
 
 
 - title: Honors and Awards
