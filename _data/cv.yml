@@ -12,15 +12,11 @@
   type: time_table
   contents:
     - title: Bachelor
-      institution: Huazhong University of Science and Technology, Wuhan, China
+      institution: Huazhong University of Science and Technology, Wuhan
       year: 2020-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - BioMedical Engineering
+        - GPA: 3.9/4.0
 
 - title: Honors and Awards
   type: time_table
