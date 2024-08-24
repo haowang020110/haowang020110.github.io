@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 10th Jan 2002
     - name: Languages
-      value: English, Chinese
+      value: Chinese, English
 
 - title: Education
   type: time_table
@@ -14,8 +14,9 @@
     - title: Bachelor
       institution: Huazhong University of Science and Technology, Wuhan
       year: 2020-2024
-      Major: Biomedical Engineering
-      GPA: 3.9/4.0
+      description:
+        - major in Biomedical Engineering, gpa 3.9/4.0
+
 
 - title: Honors and Awards
   type: time_table
