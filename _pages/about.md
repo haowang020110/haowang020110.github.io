@@ -23,8 +23,10 @@ Hao Wang currently is a 1st-year Master student in Wuhan National Laboratory for
 Feel free to email me for anything(collaboration, discussion, or just a free chat)
 
 #### <span style="color:rgb(64,224,208) ;">Research Interest</span>
+3D Vision
+
 Medical Image Analysis
 
-3D Vision
+
 
 
